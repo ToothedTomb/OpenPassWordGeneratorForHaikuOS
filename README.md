@@ -8,3 +8,4 @@ This is a simple password generator for HaikuOS.
 # Compile:
 
 # Download: 
+https://jonathan-linux.itch.io/open-password-generator-for-haiku-os
